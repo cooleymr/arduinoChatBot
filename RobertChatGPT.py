@@ -6,6 +6,8 @@ import time
 
 
 openai.api_key = "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"
+#openai.api_key = "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"
+#openai.api_key = "sk-1f65EMuxXPNoEkUYmxFFT3BlbkFJR8xAiGA5ePinuQOoZjv"
 
 engine = pyttsx3.init()
 
