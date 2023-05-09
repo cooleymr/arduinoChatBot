@@ -1,5 +1,7 @@
 # arduinoChatBot
 Chatbot made for Arduino powered by ChatGPT that is able to display facial expressions through a 2.8" TFT LCD Shield
+This project was for an Arduino class @ Indiana University - Bloomington
+
 SETUP:
 1. Download necessary Python libraries (With Pip)
 2. Upload .ino code to Arduino connect to TFT screen
